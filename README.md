@@ -25,19 +25,19 @@ Chương trình C# Console thực hiện các chức năng trên một mảng s�
 
 ### Giao diện menu
 
-![Menu](images/menu.png)
+![Menu](Lab02/images/menu.png)
 
 ### Tính tổng, tìm max/min
 
-![Tính toán](images/tinh-toan.png)
+![Tính toán](Lab02/images/tinh-toan.png)
 
 ### Đếm chẵn/lẻ và sắp xếp
 
-![Sắp xếp](images/sap-xep.png)
+![Sắp xếp](Lab02/images/sap-xep.png)
 
 ### Tìm kiếm
 
-![Tìm kiếm](images/tim-kiem.png)
+![Tìm kiếm](Lab02/images/tim-kiem.png)
 
 ## 5. Kết luận
 
