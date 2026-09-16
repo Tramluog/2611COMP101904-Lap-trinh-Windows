@@ -20,12 +20,19 @@ Chương trình quản lý các loại nhân viên:
 ## 2. Chức năng
 
 1. Xuất danh sách nhân viên.
+
 ![Xuất danh sách nhân viên.](./images/danh-sach.png)
+
 2. Tìm nhân viên theo mã.
+
 ![Tìm nhân viên theo mã.](./images/tim-theo-ma.png)
+
 3. Tìm nhân viên có lương cao nhất.
+
 ![Tìm nhân viên có lương cao nhất.](./images/luong-cao-nhat.png)
+
 4. Tính tổng lương công ty phải trả.
+
 ![Tính tổng lương công ty phải trả.](./images/tong-luong.png)
 ## 3. Áp dụng đa hình
 
