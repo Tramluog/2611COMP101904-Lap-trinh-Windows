@@ -39,6 +39,4 @@ Chương trình C# Console thực hiện các chức năng trên một mảng s�
 
 ![Tìm kiếm](./images/tim-kiem.png)
 
-## 5. Kết luận
 
-Chương trình thực hiện đầy đủ các chức năng được yêu cầu trong bài Lab 2.
