@@ -34,9 +34,4 @@ Chương trình quản lý các loại nhân viên:
 4. Tính tổng lương công ty phải trả.
 
 ![Tính tổng lương công ty phải trả.](./images/tong-luong.png)
-## 3. Áp dụng đa hình
 
-Chương trình sử dụng:
-
-```csharp
-List<NhanVien> danhSach = new List<NhanVien>();
