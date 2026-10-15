@@ -12,9 +12,6 @@ Dữ liệu được lưu trong bộ nhớ bằng BindingList<Product>,
 hiển thị trên DataGridView thông qua BindingSource.
 Chương trình chưa kết nối cơ sở dữ liệu.
 
-Bài được lưu trong thư mục Lab06 theo buổi học để phân biệt
-với bài đăng ký khóa học đã lưu trong thư mục Lab05.
-
 ## 2. Các chức năng
 - Nạp dữ liệu khi mở Form
 - Thêm sản phẩm
