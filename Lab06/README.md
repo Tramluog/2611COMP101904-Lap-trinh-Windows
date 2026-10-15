@@ -1,4 +1,4 @@
-# Buổi 6 - Lab 05: Windows Forms nâng cao và DataGridView
+# Lab 06: Windows Forms nâng cao và DataGridView
 
 ## 1. Mô tả bài tập
 
